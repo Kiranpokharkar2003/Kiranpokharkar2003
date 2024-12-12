@@ -1,6 +1,8 @@
 <h1> ABOUT ME 👀 </h1>
 <h3 align="center">🚀 Hey there! I'm "KIRAN POKHARKAR" of 3rd year student (software engineering) at "UKA TARSADIA UNIVERSITY" in Gujarat, India 💻✨</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kiranpokharkar2003&label=Profile%20views&color=0e75b6&style=flat" alt="Kiranpokharakr2003" /> </p>
+
 - 🌱 I’m currently learning **B.Tech CSE with a focus on AI/ML**
 
 - 📫 Reach me with  **kiranpokharkar347@gmail.com and [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-pokharkar-9996942aa/)**
