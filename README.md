@@ -1,5 +1,5 @@
 <h1> ABOUT ME 👀 </h1>
-<h3 align="center">🚀 Hey there! I'm "KIRAN POKHARKAR" of 3rd year student (software engineering) at "UKA TARSADIA UNIVERSITY" in Bardoli, Gujarat, India 💻✨</h3>
+<h3 align="center">🚀 Hey there! I'm "KIRAN POKHARKAR" of 4th year student (software engineering) at "UKA TARSADIA UNIVERSITY" in Bardoli, Gujarat, India 💻✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kiranpokharkar2003&label=Profile%20views&color=0e75b6&style=flat" alt="Kiranpokharakr2003" /> </p>
 
